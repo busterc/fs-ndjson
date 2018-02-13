@@ -57,5 +57,7 @@
     "testEnvironment": "node"
   },
   "license": "ISC",
-  "dependencies": {}
+  "dependencies": {
+    "universalify": "^0.1.1"
+  }
 }
