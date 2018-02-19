@@ -1,6 +1,6 @@
 {
   "name": "fs-ndjson",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "read and write NDJSON files (Newline Delimited JSON)",
   "author": {
     "name": "Buster Collings",
@@ -58,6 +58,7 @@
   },
   "license": "ISC",
   "dependencies": {
+    "make-dir": "^1.1.0",
     "universalify": "^0.1.1"
   }
 }

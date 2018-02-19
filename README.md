@@ -20,6 +20,8 @@ The following `fs-ndjson` methods mirror the `fs` core module method APIs, howev
 * writeFile
 * writeFileSync
 
+**BONUS:** `writeFile` and `writeFileSync` will create the parent directory, if it does not already exist.
+
 ## Installation
 
 ```sh
