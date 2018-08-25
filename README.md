@@ -1,5 +1,7 @@
 # fs-ndjson [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/busterc/fs-ndjson.svg)](https://greenkeeper.io/)
+
 > read and write NDJSON files (Newline Delimited JSON)
 
 ## FYI
